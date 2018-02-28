@@ -1,0 +1,260 @@
+
+
+.course-header {
+  background-image: url(header_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 560px;
+  width: 1466px; 
+    margin: 0px; 
+    padding: 20px;
+}
+
+
+
+.course-header h1 {
+  color: white;
+  text-align: center;
+  margin-top: 50px; 
+  font-family: 'Mukta Malar', sans-serif;
+  font-size: 60px;
+}
+
+.container .btn {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #FFD700;
+    color: black;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+.container-yellow .btn1 {
+    position: absolute;
+    left: 49%;
+    transform: translate(-54%, -56%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #000345;
+    color: white;
+    font-size: 16px;
+    padding: 10px 24px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    border-radius: 5px;
+
+}
+
+
+h1 {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+h2 {
+ text-align: left;
+ color: #00008B;
+ margin-left: 70px;
+ font-size: 30px;
+ font-family: 'Russo One', sans-serif;
+}
+
+
+h3 {
+  margin-left: 100px;
+  font-family: sans-serif;
+}
+
+p {
+  margin-left: 534px;
+  margin-top: 160px;
+  font-family: sans-serif;
+}
+
+.center {
+  margin-left: 100px;
+}
+
+ul {
+  font-family: sans-serif;
+}
+
+
+i {
+  color: white;
+  text-align: center;
+  margin-top: 50px; 
+  font-family: 'Josefin Slab', serif;
+  font-size: 24px;
+}
+
+b.center {
+  text-align: center;
+  color: white;
+  position: absolute;
+  font-size: 26px;
+  top: 1124px;
+  left: 572px;
+}
+
+.footer {
+
+}
+
+
+h4 {
+margin-left: -23px;
+margin-top: -74px;
+font-family: 'Russo One', sans-serif;
+font-size: 32px;
+color: yellow;
+}
+
+.witter-logo {
+  background-image: url(twitter.png);
+  background-repeat: no-repeat;
+  
+
+}
+
+.facebook-logo {
+  background-image: url(facebook.png);
+  background-repeat: no-repeat;
+
+padding: 3em;
+
+font-size: 6px;
+
+}
+
+h5 {
+color: white;
+font-family: sans-serif;
+font-size: 10px;
+color: white;
+position: absolute;
+right: 750px;
+font-size: 6px;
+top: 1552px;
+
+}
+
+/*
+.container-Amanda .i {
+  padding: 0.01em 230px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  font-family: 'Mukta Malar', sans-serif;
+}
+
+*/
+/*
+br {
+  margin-left: 212px;
+}
+*/
+
+
+
+ul {
+  margin-left: 100px;
+  text-align: justify;
+}
+
+.testimonial {
+  background-image: url(testimonial_bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 455px;
+  width: 1464px; 
+    margin: 0px; 
+    padding: 20px;
+}
+
+.testimonial-text {
+  text-align: center;
+}
+
+.container-yellow {
+  background-color: yellow;
+  padding: 2.1em;
+}
+
+.container-black {
+  background-color: black;
+  padding: 5em 704px;
+}
+
+
+/*
+.testimonial .p1 {
+  color: white;
+  text-align: center;
+  margin-top: 50px; 
+  font-family: 'Mukta Malar', sans-serif;
+  font-size: 60px;
+}
+*/
+
+
+/*
+.btn {
+  position: absolute;
+    background-color: #FFFF00;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: px;
+}
+
+.container {
+  position: relative;
+}
+
+
+
+
+
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+}
+.container img {
+    width: 100%;
+    height: auto;
+}
+
+.container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    text-align: center;
+
+}
